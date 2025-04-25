@@ -1,7 +1,7 @@
 # IT Onboarding_Runbook
 
 ## Overview
-This walkthrough outlines a standard Windows IT onboarding process within an enterprise environment, including domain configuration, Active Directory user policy assignment and group permissions, followed by verification using Event Viewer and the implementation of automated administrative protocols via PowerShell.  The attached PDF is an in depth [step by step visual guide](https://github.com/MichaelColburn/Onboarding_Runbook/blob/main/Michael%20Colburn%20-%20IT_runbook.pdf)
+This walkthrough outlines a simulation of standard Windows IT onboarding process within an enterprise environment, including domain configuration, Active Directory user policy assignment and group permissions, followed by verification using Event Viewer and the implementation of automated administrative protocols via PowerShell.  The attached PDF is an in depth [step by step visual guide](https://github.com/MichaelColburn/Onboarding_Runbook/blob/main/Michael%20Colburn%20-%20IT_runbook.pdf)
 
 ## ▲ Outline of steps and processes
 
